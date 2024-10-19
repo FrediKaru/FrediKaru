@@ -1,8 +1,12 @@
 ### Hi, I'm Fredi!
 
-- 📍 Front-end developer based in Tallinn, Estonia.
-- 📫 How to contact me: fredikaru@gmail.com
+- professional lighting designer 💡 working towards front-end career 🛠
+- 🌱 Currently learning Typescript
+- 📫 How to reach me: fredikaru@gmail.com
 - Linkedin: www.linkedin.com/in/fredikaru197
+
+## 🚀 What I'm working on
+- Developing a web app using **React** and **Node.js** that helps live-event businesses to manage and track their lighting and sound gear
 
 ## 🌟 Skills 
 ![React](https://camo.githubusercontent.com/9ea39a145870ab0cea89d021e33cacd20d1b833764284b3579c3d0713da87262/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
@@ -14,5 +18,7 @@
 ![HTML5](https://camo.githubusercontent.com/c0f60c84bd23525a0f1e5972ff5052f878eb4104e88b347b7f0004d0e6ad8898/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 
 
-## 🚀 What I'm working on
-- Developing a web app using **React** and **Node.js** that helps rental businesses and entrepreneurs to manage and track their lighting and sound gear
+## Hobbies & Interests
+- **Non-fiction books**: I enjoy reading non-fiction books on productivity, self-improvement, and biography.
+- **Swimming and Sauna**: I find balance in swimming and enjoying sauna sessions. They help me spark new ideas for my projects.
+- **Tech-nerd**: I like to read about new tech and keep up with technological improvements.
