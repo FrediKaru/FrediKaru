@@ -4,6 +4,7 @@
 - 🌱 Currently learning Typescript
 - 📫 How to reach me: fredikaru@gmail.com
 - Linkedin: www.linkedin.com/in/fredikaru197
+Always happy to collaborate on new ideas and projects! 🙂
 
 ## 🚀 What I'm working on
 - Developing a lighting gear inventory web app using **React** and **Node.js** that helps live-event businesses to manage and track their lighting (and sound) gear
