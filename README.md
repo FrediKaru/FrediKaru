@@ -1,7 +1,7 @@
 ### Hi, I'm Fredi!
 
 - professional lighting designer 💡 working towards front-end career 🛠
-- 🌱 Currently learning Typescript
+- 🌱 Currently learning Typescript and PostgreSQL.
 - 📫 How to reach me: fredikaru@gmail.com
 - Linkedin: www.linkedin.com/in/fredikaru197
 Always happy to collaborate on new ideas and projects! 🙂
